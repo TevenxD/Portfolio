@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootEmUp", "ShootEmUp\ShootEmUp\ShootEmUp.csproj", "{86BDFE28-41CB-4A49-9B6C-2E78737B4CA4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ShootEmUpContent", "ShootEmUp\ShootEmUpContent\ShootEmUpContent.contentproj", "{A236C7DE-BCA8-4899-A7F3-38F4F3C60CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BDFE28-41CB-4A49-9B6C-2E78737B4CA4}.Debug|x86.ActiveCfg = Debug|x86
+		{86BDFE28-41CB-4A49-9B6C-2E78737B4CA4}.Debug|x86.Build.0 = Debug|x86
+		{86BDFE28-41CB-4A49-9B6C-2E78737B4CA4}.Release|x86.ActiveCfg = Release|x86
+		{86BDFE28-41CB-4A49-9B6C-2E78737B4CA4}.Release|x86.Build.0 = Release|x86
+		{A236C7DE-BCA8-4899-A7F3-38F4F3C60CE8}.Debug|x86.ActiveCfg = Debug|x86
+		{A236C7DE-BCA8-4899-A7F3-38F4F3C60CE8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
