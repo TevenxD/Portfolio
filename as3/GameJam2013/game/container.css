@@ -1,0 +1,17 @@
+@charset "utf-8";
+#spel {
+	height: 460px;
+	width: 380px;
+	border-color:#999;
+	border-style:solid;
+	border-width:medium;
+	margin:auto;
+}
+.container {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #FFF;
+	background-color:#000;
+	height: 600px;
+	width: 420px;
+	margin:auto;
+}
